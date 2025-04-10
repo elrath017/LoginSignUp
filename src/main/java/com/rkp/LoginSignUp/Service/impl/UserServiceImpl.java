@@ -43,7 +43,7 @@ public class UserServiceImpl implements UserService {
         user.setCreatedAt(LocalDateTime.now());
 
         userRepo.save(user);
-        return user.getName();
+        return "Signup Success";
     }
 
     @Override
