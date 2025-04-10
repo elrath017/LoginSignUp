@@ -14,7 +14,7 @@ A fullstack implementation of a Login and Signup system using:
 
 ## Project Structure
 - `src/`: Contains the Spring Boot backend code.
-- `frontend/`: Contains the Vite React frontend application.
+- `loginsignup/`: Contains the Vite React frontend application.
 
 ## How to Run
 - Ensure Java, Maven, Node.js, npm, and MariaDB are installed.
